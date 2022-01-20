@@ -5,3 +5,5 @@ haobitao XXX
 哈哈哈
 dev分支提交
 在master分支解决冲突，重新编辑
+验证禁用fast forward进行合并
+
